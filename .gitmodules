@@ -1,0 +1,3 @@
+[submodule "include/plugins/social-media-messenger"]
+	path = include/plugins/social-media-messenger
+	url = https://github.com/transaidcymru/social-media-messenger.git
